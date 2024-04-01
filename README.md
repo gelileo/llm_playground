@@ -1,2 +1,2 @@
 # llm_playground
-Autonomous Tasks, LLM, LangChain, AGI, AI Agent
+LLM, Automation, LangChain, AGI, AI Agent
