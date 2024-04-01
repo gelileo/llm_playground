@@ -1,0 +1,5 @@
+langchain[llms]
+openai
+python-dotenv
+langchain-openai
+# langchain-community
