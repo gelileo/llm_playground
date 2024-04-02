@@ -1,0 +1,141 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ledger Tab Overview - MacPractice HelpDesk - Confluence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SpacesAppsTemplatesCreateMacPractice HelpDeskAll contentCalendarsSpace settingsContent•Welcome to the MacPractice HelpDesk! (Orientation Page)Knowledge BaseAdd-On FeaturesAttachments AbilityBackupsClinical AbilityDental and Perio ChartingDigital RadiographyeClaims & ERAsEHR AbilityEMR/EDR AbilityGeneral NavigationInstallation, Login, and UpdatesiPad AppsLabs & HL7 MessagingLedger and Claims•ADA 2024 Form At A Glance•ADA 2012 and 2019 Form At A Glance•CMS 1500 (02/12) Form At A Glance•CDA (Canadian Dental Association) Form at a Glance•UB-04 Form at a Glance•Ledger - Overview•Ledger Tab Overview•How to Use The Ledger•How To Use The Accounting Ability•How to Use Treatment Plans•Setting Up Insurance Estimating•Incident Tabs•Treatment Plans•Incident Menu•Charges Menu•Payments Menu•Other Menu•Print Menu•View Options Menu & Clinical Ledger•Charge Window•Payment Window•Claim Creation Window•Advanced Ledger - Cross Coding•Advanced Ledger - Sequestration•Advanced Ledger - Demonstration Codes•Advanced Ledger - Collections•Advanced Ledger - Anesthesia Billing•Advanced Ledger - Balance Forward•Advanced Ledger - Contract Billing•Helpful Guide - Credit vs. Debit List•Helpful Guide - Code Mapping•Helpful Guide - Copay•Helpful Guide - Imported Transactions•Helpful Guide - Crossover Claims•Helpful Guide - National Provider Identification (NPI)•Helpful Guide - Timing Filing Limit•Helpful Guide - Self-Referrals for Medicare Part B•E/M CodingNotes and Paper FormsOptical AbilityPatient Portal ServicesPatients AbilityPayment Processing SolutionsPreferencesReferences AbilityReports AbilityRx Ability and ePrescribeSchedule AbilitySecurity and NetworkingTime Clock AbilityWeb Applications and Other InterfacesInventory AbilityManagers AbilitySolutionsLearning CenterRelease Notes•Hours of Operation•Update Requirements and Caveats•CHC Bulletin and Current Options (3-1-2024)MacPractice HelpDeskLedger and ClaimsLedger Tab OverviewLedger Tab OverviewDylan NighOwned by Dylan NighLast updated: Oct 06, 202312 min readLoading data...The Ledger can be divided into three main areas, and several sub-areas. The ledger is most obviously used for accounting and adding transactions for your patients, but it can also be used to view clinical information.1 Incident Sidebar2 Transactions Table Columns3 Balance OverviewOpen Incident SidebarThe Incident Sidebar displays all unarchived incidents for the patient, as well as the Treatment Plans Folder and Account Ledger (which contains transactions for all patients on the account). Above the incident list is the Incident Menu, which can be used to create, archive, retrieve or delete incidents.Open 
+
+Treatment Plans
+Account Ledger
+Incident
+
+Treatment PlansThe Treatment Plans node in the Ledger sidebar is generally used as a quick view of all existing Treatment Plans.The Treatment Plan Status can also be adjusted here. If the cursor is moved next to the status, an x will appear. Clicking the x will hide the treatment plan from this view but will not remove it.Account LedgerThe Account Ledger is a list of all Ledger activity in a single account. You can expand the Account Ledger and select the individual Patient to view all of their transactions on one place. You cannot post, open or delete a payment/charge in this area. If you attempt to preform one of these actions while in the Account Ledger, you will be taken to the incident associated with the item, and the transaction will be highlighted.The Account Ledger is also the only place where you will be able to see Finance Charges on the account, because a finance charge is applied to the account as a whole, not a specific incident. Typically, the finance charges are based upon the Provider/Office selected in the patient's Account tab; however, these may be overridden by double clicking and editing directly on the patient's Account Ledger. IncidentThe Incident allows users to separate a patient's transactions by date, type of procedure, reason for visit, or any number of criteria.When selected, the Incident will display the Incident Tabs  on the right side of the screen. These tabs are used to add more details regarding the selected incident as well as adding additional information on claims. Once you expand the incident you can select the Contract Billing (if any), Transactions and Treatment Plan for that incident.
+
+Treatment Plans
+Account Ledger
+Incident
+
+Transactions Table ColumnsThe Transaction Table is a series of columns that contain all of the financial information within the selected incident.Above this table are the Charges, Payments, Other, Print and View Options menus. Each menu contains several difference functions. You can also customize the Ledger Colors for the transactions to whatever makes sense for your office.Columns can be dragged and dropped into any order desired. So yours may not match exactly with the order displayed. We recommend dragging the columns that you would want to reference quickly to the left, this will prevent unnecessary scrolling. Not all columns will be used. { Audit ID } { Posted Date } { Proc. Date } { Code } { Description } { Provider } { Status } { Discount } { Debit } { Credit } { Write-Off } { Balance } { Payment Amount } { Open } { Insurance Portion } { Patient Portion } { Patient Paid } { Insurance Paid } { In Collection } { Collection Transmittal Number } { Unapplied } { Form Amount } { Thru Date } { Units } { Diagnosis 1-4 } { Emerg. } { Accept } { Ins. Plan } { Ins. Holder } { Fee } { Fee Tax } { Is Lab } { Lab Fee } { Lab Tax } { Lab Cost } { Lab Place } { Original Fee } { Schedule } { Time } { Procedure Type } { TOS } { POS } { Tooth and Surface } { Quad } { Record # } { Claim Number } { Pri. Deductible } { Sec. Deductible }Audit IDThis is the User ID of the MacPractice user who entered the line item. A User's ID is defined in the References Ability > Users.Posted DateThe date the transaction was posted in the Ledger. This cannot be edited.Proc. DateThe date the item was performed. This can be edited in the original transaction (such as in the charge window for a Procedure's Date).CodeThis column will include the Procedure Code or an identifying short description of the transactions.DescriptionThe description of the transaction will be shown in this column. For Procedures, it will include the Procedure Description in the Charge Window.ProviderThis column will show the Provider selected within the transaction.StatusThe status of a claim.DiscountIf a discount is set in the Account tab, the amount of the discount appears in this column.DebitThis is the amount of money charged to the account. Debit items will inflate the balance.CreditThis is the amount of money subtracted from the account. Credit items will decrease the balance.Write-OffAny applicable Write-Off appears is this column.BalanceThis represents the balance as of the placement of the line item. This may not match the Acct. Balance.Payment AmountThis is the total amount of a payment regardless of what may or may not have been applied.OpenThis will display the amount of money still owed for the line item.Insurance PortionThis column shows amount of the charge that is estimated the insurance company will pay based on how the user has set up Insurance Estimating. Otherwise, when a claim is created without Insurance Estimating, MacPractice assumes 100% will be paid. The remaining amount after the payment has been applied will go into Patient Portion.Patient PortionThis will display the amount of the charge that is the patient's responsibility to pay.Patient PaidThis column displays the amount that a patient has paid toward the line item.Insurance PaidThis will show the amount that an insurance company has paid on the line item.In CollectionThis will say "Yes" or "No" depending on the collections status.Collection Transmittal NumberThis column displays a Transmittal Number that correlates to submitted Collections in the Collections Manager.UnappliedThis shows how much of a payment has not been applied to a charge or refunded back to the patient/provider/insurance.Form AmountThis column shows the total amount of all charges tied to the claim/statement on that line.Thru DateThis column will show the To Date from the New Charge window.UnitsThe number of Units entered in the New Charge window for that specific procedure.Diagnosis 1-4These columns will indicate the Diagnosis codes (if any) that were listed in the New Charge Window for the procedure.Emerg.This states "Yes" or "No" if the Emergency box in the New Charge window has been checked.AcceptThis column will show "Yes" or "No" depending on if the Provider Accepts Assignment on a claim item. For other items, this column will be blank.Ins. PlanThis displays the Insurance Plan associated to the claim line.Ins. HolderThis shows the primary person who holds the insurance.FeeThis column is the amount charged for the Fee alone.Fee TaxThis is the amount charged for the tax associated with the Fee.Is LabIf Requires Lab is checked in the New Charge window, this column will say either "Yes" or "No".Lab FeeThis is the amount charged for the Lab. (Canadian only)Lab TaxThis is the amount charged for the tax associated with the Lab. (Canadian only)Lab CostThis will display the Lab Cost as designated in the New Charge window.Lab PlaceThis column will show the Lab Name the lab was preformed based on the lab selected in the New Charge window.Original FeeThis will display the base fee of the charge before any added discounts or fees.ScheduleThis column will show the Fee Schedule selected within the New Charge window for the line item.TimeThis displays the Schedule Units entered in the New Charge window.Procedure TypeThis column will display the Procedure Type set in the New Charge window.TOSThis pulls from the Type of Service field in the New Charge window. This column is precent in DDS, however it cannot be edited.POSThis information pulls from the selection a user made in the New Charge window under the Place of Service field.Tooth and Surface*Not present in MacPractice DC or 20/20*These pull from the Tooth and Surface fields in the New Charge window.QuadThis will pull from the Area of Oral Cavity selection the user made in the New Charge window.Record #This is the number automatically assigned to the item chronologically in all of MacPractice. This number cannot be edited or changed in any way, and is generally used in the back end of MacPractice to keep the records in order.Claim Number*New in Build 11.6.12+*A system-assigned number to each Claim. These end in E or P, and indicate whether the claim in question is an Electronic claim or a Paper Claim.Pri. DeductibleThis column will show the amount pulling from the deductible primary insurance. This number will be calculated based on how you've setup your Insurance Plans and the Deductible amount entered in the Patient ability > Patient tab > Insurance sub-tab.Sec. DeductibleThis shows the amount pulling from the deductible secondary insurance. This number will be calculated based on how you've setup your Insurance Plans and the Deductible amount entered in the Patient ability > Patient tab > Insurance sub-tab. Balance OverviewBelow the Transactions Table is the Balance Information. This will give you a quick summary of the totals of the entire account.
+
+Acct. Balance
+Ins. Portion
+Pat. Portion
+Unapplied
+Primary Coverage
+Deductible
+
+Acct. BalanceThis number is the total unpaid amount that is owed on the account.Ins. PortionThis number is the total amount estimated to be owed to the Account from Insurance. If multiple Patients exist in the Account, this number will most likely not match one Patient's balance.This is based on a couple of different factors.The way plans and charges are setup with Insurance Estimating. If Insurance is estimated to cover a specific amount, that amount will be reflected in the Ins. Portion.Any unpaid open claims without Insurance Estimating will show the total amount unpaid in the Insurance Portion. Upon payment, the remainder of the amount owed will transfer to the Patient Portion.Information on how the Portions will break down can be found in the Portion Troubleshooting table.The Insurance Portion is also included in the Aging Table below. The first column will show the Balance Total for the Insurance Portion. Then the total will be broken down by 0-30 Days, 31-60 Days, 61-90 Days, 91-120 Days, and 120+ Days. Pat. PortionThis number is the total amount estimated to be owed to the Account from the Patient or Patients on the Account. If multiple Patients exist in the Account, this number will most likely not match one Patient's balance.If Insurance Estimating is used, this number will reflect what the Patient is most likely to pay based on the details entered into MacPractice.The Patient Portion is also included in the Aging Table below. The first column will show the Balance Total for the Patient Portion. Then the total will be broken down by 0-30 Days, 31-60 Days, 61-90 Days, 91-120 Days, and 120+ Days. UnappliedThis is the amount of payments that have been posted to the Account but not yet applied to any charges. This number will appear in red if it is any amount except $0.00. Unapplied payments will appear in the Transactions Table for every Patient in the Account, but may be intended for a charge on a specific Patient's Ledger.Primary CoverageThis number reflects the cost that insurance is expected to cover in a year. This number is set in the Insurance tab of the Patient Ability. Insurance payments will cause this number to decrease (so if Insurance pays $100, then $100 will be removed from the Primary Coverage). The number will also decrease if Insurance Estimating is used. This serves to keep an estimate of how much an insurance company is likely to pay on the patient's behalf.This does not take into effect any service the insurance may cover outside of the office if it is not kept track of in the office's Ledger.If no Insurance Plan is set for the Patient, then "No Insurance Plan" will appear. Once a Plan has been applied, the Primary Coverage will appear in blue text.If multiple Insurance Companies are used by the patient, this number will only reflect the Primary Coverage from the Primary Insurance (or the Insurance Company listed on the top of the Patient's Insurance tab.)This will only apply to the selected Patient. If there are multiple Patients on the Account, another Patient will need to be selected in order to see their Primary Coverage.DeductibleThis is the Deductible that the patient will pay based on their Insurance carrier. Similar to Primary Coverage, this number is set in the Insurance tab of the Patient Ability. A Deductible is applied if the Charge has a Procedure Type that is designated Applies to Deductible in the Plans tab inside the Insurance Company Reference.If no Insurance Plan is set for the Patient, then "No Insurance Plan" will appear. Once a Plan has been applied, the Deductible will appear in blue text.If multiple Insurance Companies are used by the patient, this number will only reflect the Deductible from the Primary Insurance (or the Insurance Company listed on the top of the Patient's Insurance tab.)This will only apply to the selected Patient. If there are multiple Patients on the Account, another Patient will need to be selected in order to see their Deductible. 
+
+
+
+
+
+
+{"serverDuration": 20, "requestCorrelationId": "e9d9db0c6be24a17988935cf53bd1f58"}
+
+

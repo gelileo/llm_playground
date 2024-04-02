@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patient Tab - MacPractice HelpDesk - Confluence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SpacesAppsTemplatesCreateMacPractice HelpDeskAll contentCalendarsSpace settingsContent•Welcome to the MacPractice HelpDesk! (Orientation Page)Knowledge BaseAdd-On FeaturesAttachments AbilityBackupsClinical AbilityDental and Perio ChartingDigital RadiographyeClaims & ERAsEHR AbilityEMR/EDR AbilityGeneral NavigationInstallation, Login, and UpdatesiPad AppsLabs & HL7 MessagingLedger and ClaimsNotes and Paper FormsOptical AbilityPatient Portal ServicesPatients Ability•Patients Ability - Overview•How to Use the Patients Ability•Setting Up the Patients Ability•How to Use the Orders Tab / Orders Ability•Patients Ability - Sidebar Overview•Primary & Secondary Tabs•Account Tab•Patient Tab•Clinical Tab (Builds prior to 11)•Orders Tab•Patient Information Palette•Immunizations in MacPractice 11Payment Processing SolutionsPreferencesReferences AbilityReports AbilityRx Ability and ePrescribeSchedule AbilitySecurity and NetworkingTime Clock AbilityWeb Applications and Other InterfacesInventory AbilityManagers AbilitySolutionsLearning CenterRelease Notes•Hours of Operation•Update Requirements and Caveats•CHC Bulletin and Current Options (3-1-2024)MacPractice HelpDeskPatients AbilityPatient TabPatient TabDylan NighOwned by Dylan NighLast updated: Jan 03, 202428 min readLoading data...The Patient tab is where all the data for an individual patient in an account is stored. This information can match the Primary or Secondary if the Primary/Secondary Guarantor is also a patient.Open 1 Patient Demographics2 Patient Information3 Recall | Follow-Up Tab4 Insurance Tab5 Referrals Sub Tab6 Custom Sub-Tab7 Alerts Sub Tab8 Appointments Sub-Tab9 Notes Sub-Tab10 Emergency Sub-Tab11 Communication Sub Tab12 Race/Ethnicity Sub-Tab13 Portal Access Sub Tab14 Patient Consent Sub Tab15 School Sub TabPatient DemographicsThe Patient Demographics fields store the patient demographic data. The patient's name will be required in order to save the file. This information will also pull into Appointments, Reports, Claims, and Forms. Open 
+
+Last, First, and Middle Name
+Prefix and Suffix
+Maiden Name
+Nickname
+Street Address and Suite/Apt Number
+City, State, and Zip
+Country
+Email Address
+Phone Numbers
+
+Last, First, and Middle NameFirst and Last names are the only required fields when creating a new patient record. Use the Patient Ability preferences for duplicate patients to have MacPractice check for matching entries as data is entered.The selected patient will display at the top of the MacPractice window as you navigate throughout different abilities.The Patient's Name will pull into Box 2 of the CMS Claim Form, Box 20 on the ADA Claim Form, and the  Part 1 - Patient area of the CDA Claim Forms. This will also pull into Box 8b and Box 38 on the UB Claim Form. Prefix and SuffixThese fields will be used if the Patient happens to have a Prefix or Suffix within their name. These fields are both optional.Unless customized to do so, the Patient's Prefix or Suffix will not pull onto the CMS, ADA or CDA Claim Forms.Maiden NameThis field can be used to indicate a secondary legal name the Patient may have/had. This field does not pull onto CMS, ADA, CDA, or UB Claim Forms unless customized to do so.NicknameUse this field to indicate a preferred name for the Guarantor, or a shortened version of the name they goes by. This field is also optional. This information does not show up on claims, but a pull field can be added to any Form or Template. The schedule can also be setup to display this name on an appointment as well. Find more information about that, HERE.Street Address and Suite/Apt Number*Canadian Claim Fields Checked: City/Town, Province, Postal Code*Enter the Patient's address within this area. This may be different than the Guarantor's on the Primary/Secondary tabs. The Address information will pull into Box 5 on the CMS Claim Form, Box 20 on the ADA Claim Form, and the Part 1 - Patient area of the CDA Claim Form. This will also pull into Box 9a and Box 38 on the UB Claim Form. City, State, and ZipIf the Zip Code exists in the City State Zip Reference, entering the zip onto the Patient tab will automatically fill in City and State fields.The City, State, and Zip Code information will pull into Box 5 on the CMS Claim Form, Box 20 on the ADA Claim Form, and the Part 1 - Patient area of the CDA Claim Form. This information will also pull into Boxes 9b-9d and Box 38 on the UB Claim Form. CountryThe Country field is designed for addresses outside of The United States. If the address is in the USA, US Territories, or Canada, this box should remain blank. This is especially important when working with eClaims, as incorrect codes will cause a rejection. Email AddressThis is where the most reliable Email Address for the Patient should be entered. Use this data to generate lists of patient emails for exporting. This is also used for sending patient appointment reminders through AutoRemind.Phone NumbersEnter up to three contact numbers per Guarantor. Enter the Phone Number without dashes; MacPractice will auto-format based on the format you have selected Preferences > Localization. For international offices, visit the Localization Preference and change the Phone Format menu to "International". Setting up the phone order in the Default Patient record is an important step for an office. The types of numbers can be set to Home Phone, Work Phone, Mobile Phone, or Other Phone.On the CMS Claim Form, Box 5 will populate with the first listed phone number set to the "Home" phone type. This information does not populate on the ADA, CDA, and UB Claim Forms unless customized to do so.Ext.The Extension field can use letters as well as numbers and is an ideal place to enter quick notes like "call first." The extension number/note will not pull onto any of the claim forms. 
+
+Last, First, and Middle Name
+Prefix and Suffix
+Maiden Name
+Nickname
+Street Address and Suite/Apt Number
+City, State, and Zip
+Country
+Email Address
+Phone Numbers
+
+Patient InformationThese fields will be used to record additional patient information. A majority of this information can be pulled into Forms, Reports, and Claims. None of these fields are required upon creation of the account, which allows users to enter referrals with names only.Birth Date and AgeEnter the Patient's Birth Date and the Age is automatically calculated on the right. The patient's age will also display in the Patient Selector above the sidebar on the left. On the dental version of MacPractice, the patient's age determines primary or permanent tooth numbering in Restorative Charting.Click the "Details" button to enter additional information such as Birth Time, Order, Facility and State if needed.Once entered, the Patient's date of birth will appear in Box 3 of the CMS Claim Form, Box 21 on the ADA Claim Form, and the Part 3 - Date of Birth area of the CDA Claim Form. This will also populate in Box 10 on the UB Claim Form.WeightIf the Patient's weight is entered into the Clinical tab/ability > Vitals widget, the most recent weight record will show up in this field. If your office prefers metric units, update the Localization Preferences to Kilograms.Once entered, this information will not pull into a claim form unless customized.SexEnter the Patient’s Gender here. Offices may choose to set this up as a default if it applies to the specialty. The gender here is reflected in the Patient Selector.This information will pull into Box 3 on the CMS Claim Form, Box 22 on the ADA Claim Form, and Box 11 on the UB Claim Form. Unless customized to do so, the Patient's gender does not pull onto the CDA Claim Form. HIE Consent CheckboxThe HIE Consent checkbox ensures that items from HL7 and Labs are able to be transmitted for the Patient. This is normally done when the office needs to upload patient information to a Health Information Exchange for MIPS/MACRA Certification purposes, but can also apply to other HL7 or Labs communications.If it does not apply to your office or you're unsure, leave this unchecked.If you are interested in learning more, a MacPractice representative may help with setting up HL7 or Attachments transmitted via HIE.Social Security Number*Canadian Claim Fields Checked: ID, ID Expiration*By default, the Social Security Number field will display on the Patient tab. Enter the Social Security Numbers without dashes; MacPractice will auto-format this field.With Canadian and International claims, the Medicare or ID can be turned on in lieu of the Social Security Number field. Visit the Preferences > Localization > and change the SSN/Medicare drop down menu to your preferred choice.This information does not pull onto the CMS, ADA, CDA, or UB Claim Forms.Provider and OfficeThe Patient Provider is usually listed as the provider the patient sees most often. This provider will be used by default for most new records created for that patient, such as new charges, appointments, prescriptions, and forms.This can always be changed on the fly in the event the patient sees another provider for a single visit. If the office changes the provide often, feel free to leave the Provider field set to "None" and update records as they are created.If an office has multiple office references, a default office can be set for a patient as well. As with the provider, change this is on the fly during the patient's visit if they are visiting a different location. This office will pull into most new records created for the patient.Chart #The Chart # field is used to keep track of chart identifiers from sources outside of MacPractice. This will often be primary paper chart numbers or numbers from a different system.There is a Preference in Preferences > Patient Ability > Misc. that allows the system to Automatically Assign Chart Numbers and the ability to use a suffix on Chart Numbers. However, usage of this preference is not recommended unless directed by MacPractice.The Chart Number entered here will pull into box Box 3b on the UB Claim Form, but does not pull onto the CMS, ADA, or CDA Claim Forms.Bridge NumberThe Bridge Number is a free type field where patient identifier numbers are stored third party Imaging systems. A MacPractice representative will typically help with the setup of Digital Radiography or Imaging bridges. Leave this field blank in all other cases. Marital StatusIf your offices records marital status information for Patients, select from the available options here. This list is preformatted. You may set the Marital Status in the Default Patient for all new patients as well. This selection does not pull into any of the Claim Forms, unless customized to do so.EmploymentThis pop-up menu is used to record the Patient's employment or student status.Based on the selection made in this menu, "Yes" or "No" will print in Box 10a on the CMS Claim Form.It does not appear this selection pulls into any area of the ADA, CDA, or UB forms, but more information about Employer on the Primary/Secondary tabs will pull into Box 17 on the ADA Claim Form and the Part 2 - Employer area of the CDA Claim Form.Fee ScheduleChoose which Fee Schedule will be used in the Patient's Ledger by default. As with Providers and Offices, this may be changed on the fly as data is entered for the patient visit.If your office only has one Fee Schedule, you may choose to use a Database Utility to update all patients to a specific schedule, or set this as the default in the Default Patient for all new records created. This information does not pull into any of the Claim Forms, unless customized to do so. Preferred LanguageUse this menu to record the patient's primary language. If the desired option is not available in this drop down, additional languages can be turned on in the Languages Reference.The selection made here does not pull into any of the Claim Forms, unless customized to do so. New Patient DateThe New Patient Date is intended to be used as a record of when the patient started to see providers in the office.This date will default to when the patient's record was created in MacPractice, but it can be manually overridden.The New Patient Date is utilized in some reports. However it does not appear on any Claim Forms unless customized to do so.For example, the Patients report in the Marketing node will pull the New Patient Date.Preferred Hygienist*Not present in MacPractice MD, DC or 20/20*Dental practices will have a field for the patient's preferred hygienist. This field is informational, though the Perio charting includes hygienist information. Unless customized to do so, this information will not pull onto any Claim Forms.Relationship to Primary and SecondaryThe Relationship to Primary and Relationship to Secondary fields indicate the connection of the patient to the person listed in the Primary or Secondary tabs.For example, if the patient is a child, and the Primary is their parent, Child would be selected.This field will turn red to notify users of potential issues; if the guarantor and patient names do not match the "Self" status may be incorrect and need corrected. MacPractice does not check fields other than the names and does not check for additional issues if another status is selected. This field is very important for insurance processing and how the subscriber and patient information pulls onto claims. For eClaims, only certain relationships are valid. This information will affect what is pulled into Box 4 and Box 7 as well as what is checked in Box 6 on the CMS Claim Form.In the ADA Claim Form, this selection will pull into Box 10 and Box 18.Then on the CDA Claim Form this will pull into the Part 3 - Patient: Relationship to Employee/Plan Member/Subscriber area of the form. This information will also pull into Box 59 of the UB Claim Form.Recall | Follow-Up Tab*MacPractice MD, DC, and 20/20 will see "Follow-Up". MacPractice DDS will see "Recall".*Recalls and Follow-Ups are built into the MacPractice System to help track when a patient should be returning to the office. The Recall/Follow-Up list will be color coded:Black Text: Not linked to an appointmentGreen Text : Linked to an appointmentRed Text : The connected appointment is scheduled before Recall Date (Last Visit + Frequency)Click the plus sign near the upper right corner of the Recall/Follow-Up table. This will bring up a list of Recall/Follow-Up References. Use the search field and select a record from the list. If the name is not present, use the plus button on the top right to create a new record then enter the Employer information and Address.As with several areas of MacPractice, the columns can be arranged in any order that best fits the office's workflow. Simply click the column header and drag it left or right, then release.TypeThis pulls in the title of the recall as it is entered in the Reference.Last VisitDisplays the date the patient was last seen in your office. This defaults to the date the Recall/Follow-Up was created but may be edited. FrequencyThe length of the Recall/Follow-Up in days. This pulls in from the Reference but is editable. Recall/Follow-Up DateThe date the visit should be due. This number is calculated by adding the Frequency (in days) to the Last Visit date.Next VisitIf the record is not tied to an appointment, this should be the same as the Recall/Follow-Up Date, though it can be manually edited. If the record has been associated to an appointment, the Next Visit date will be the date of the appointment.Appointment DateIf there is no appointment linked, this field will be blank. The recall will also be shown in a black text. If there is an appointment tied the Next Visit & Appointment date will read the same, and the record will show show in a green text.ResourceIf there is an appointment, this column will display the resource (schedule column) it is scheduled under.NotesThis free text field is available for any notes. These notes may pull into letters printed for the patient. They can also automatically delete once the appointment is scheduled if a preference is enabled. Visit our Creating Recalls in the Patient Tab and Scheduling From the Patient Tab tutorial videos for step by step instructions on creating and using Recalls/Follow-Ups. Insurance TabThe Insurance tab is where you can record and review information about the patient's benefits. This tab will list any insurance records associated with the Primary or Secondary person on the account. If you wish to add new insurance to a patient, you must add it through the Primary or Secondary screen; it cannot be added here. However, please keep in mind that the primary insurance does NOT have to be added to the Primary tab. Use this table to determine which insurance is primary, secondary, and so forth for each patient. The insurance at the top is the primary carrier. Click and drag the insurances to place them in the correct order.The columns can also be arranged in any order that best fits the office's workflow. Simply click the column header and drag it left or right, then release.Special InsuranceThe Special Insurance checkbox is not reflected on claims, but is used in some of the Patients By Insurance Carrier report. When checked, this will also add an alert "Special Insurance" when in the Claim Creation Window.Offices generally use this to indicate or remind them that this insurance for the patient has special instructions before submitting the claim.For Example, an insurance may always require paperwork to be filed with the claim for this specific patient.Family Planning*Not present in MacPractice DDS*The Family Planning checkbox will indicate that the patient is undergoing family planning services. Once checked, this will print in Box 24h on the CMS Claim Form. This information does not pull onto the ADA, CDA, or UB Claim Forms.EPSDTThe EPSDT checkbox is the child health component of Medicaid. It's required in every state and is designed to improve the health of low-income children, by financing appropriate and necessary pediatric services.This information will be reported in Box 24h on the CMS Claim Form and Box 1 on the ADA Claim Form. This will not pull into the CDA or UB Claim Forms.Refresh Remaining CoverageClick the Refresh Remaining Coverage button to refresh benefits, based on the insurance coverage used to date, the information entered in the plan, and the renewal date. Please note that if the patient's remaining coverage or deductible amount are overridden, you will not be able to use the Refresh Remaining Coverage button. Refresh Remaining Coverage always uses the plan coverage and deductible amounts to recalculate the patient's coverage, and will not consider any manually overridden amounts.Enabled CheckboxThe Enabled checkbox determines whether or not the coverage is active for the patient. This is most frequently used on multi-patient family accounts. For example, if the mother and children were on insurance held by the mother, and the father used his own insurance, you would uncheck the Enabled checkbox for the father's insurance on the Insurance tab for all other patients on the account. On the father's Insurance tab, the mother's insurance would be unchecked.Much of the insurance data pulls from the primary and secondary tabs, but may be overridden on a per-patient basis.CarrierThis column will display the name of the Insurance Company listed in the Primary/Secondary tabs. The carrier listed first will be considered the Primary Insurance for the patient, regardless of which insurance is listed in the Primary tabs. Subscriber IDThe Subscriber ID lists the patient-specific ID number for the insurance. By default, this will be the same subscriber number that is entered on the Primary or Secondary tab, but it can be changed if necessary.Once you have changed the ID on the Patient tab, the tie is broken. This means updating the information on the Primary tab will not update it on the Patient tab. To re-establish the tie, delete the Subscriber ID from both the Primary and Patient tabs, and save. Once both fields have been saved with a blank value, the tie is re-established.The Subscriber # will pull into Box 1a and Box 9a (if the Patient has multiple insurance coverages) on the CMS Claim Forms. On the ADA Claim Form, this information can pull into Box 8 (if the Patient has multiple insurance coverages) and Box 15.This information also pull into Part 2 - Your Cert. No or S.I.M. or I.D. on the CDA Claim Form. As well as  Box 8a and Box 60 on the UB Claim Form.CopayThe Copay amount can be added to the Copay column within the Insurance sub-tab. This amount will then pull into the charge window. For more information on setting up copays, visit our Helpful Guide - Copay.DeductibleThe Deductible column will pull information from the Insurance Reference > Plan tab. However, if the Patient does not have a Plan selected in the Primary/Secondary tabs, the deductible amount can be entered here.If you do not use insurance estimating, the Deductible amount will remain until it is manually edited.If you do use insurance estimating, the Deductible amounts will reduce according to the estimated benefits.Remaining CoverageThe Remaining Coverage column will pull from the Annual Coverage field within the Insurance Reference > Plan tab. However, if no Plan is selected the an amount can be added to the Remaining Coverage column.If you do not use insurance estimating, the Remaining Coverage will reduce as you receive insurance payments.If you do use insurance estimating, the Remaining Coverage amounts will reduce according to the estimated benefits.Remaining Ortho Coverage *Not present in MacPractice MD, DC or 20/20*This column will pull the amount entered in the Max Ortho Benefit field in the Insurance Reference > Plan tab. If this amount is left blank or no plan has been selected, an amount can be added to the Remaining Ortho column.Once this has been setup on the Patient or Plan, the Ortho coverage will be reduced by charges associated with an "Orthodontic" Procedure Type.SubscriberThis field will pull the person's name associated to the insurance listed in this row. This will be based on the Name entered in the Primary/Secondary tab. This will always match the selection made in the Primary/Secondary tab.EmployerThe Employer column will pull the Employer selected within the Insurance Table for the insurance listed in this row. If none is selected, this column will remain blank. This will always match the selection made in the Primary/Secondary tab.Plan NameThis column will display the Plan selected within the Insurance table for the insurance listed in this row. If there isn't a Plan selected, this column will remain blank. This will always match the selection made in the Primary/Secondary tab and can be changed there.Start and End DateStart Date and End Date pull in from the Primary/Secondary tabs but may be manually edited if needed.The Start Date is the date the patient first gained this insurance. If you do not know the specific date, it is sufficient to enter a rough approximation, such as the patient's first visit. This information is not reported on claims, but it is used to allocate balances between the Insurance Portion and Patient Portion.The End Date field should only be used if coverage terminates. This field is rarely filled out when you first add insurance to a patient's record.For example, if a patient left their employer and was no longer covered by the selected insurance.Group #*Canadian Claim Fields Checked: Policy #*The Group # column can populate based on what was entered in the Insurance Group # column in Primary/Secondary tabs. However, if a Group # is entered in the Employer table of the Primary/Secondary tab, this may override the Insurance Group #.Medicare TypeUse the Medicare Type menu to select a Medicare as Secondary reason, if applicable.HIPAA Release and DateBelow the insurance table, you can indicate the patient's current HIPAA Release status, and enter the HIPAA Release Date, if applicable. This can be set in a default patient record, updated for the whole database through a utility, or overridden on eclaims. Referrals Sub TabThe Referrals tab is designed to document unique transitions to and from the Referrers involved. This document uses the terms referral and referrer as follows:To add a referral to the patient's record, click the plus button in the upper right corner of the referral area. In the resulting window, search for and select the referrer. If the referrer is not present within the list, click the plus button to create a new referrer record. Referrers can also be added in the Referrers Reference.As in the previous tabs, the columns can be arranged in any order that best fits the office's workflow. Simply click the column header and drag it left or right, then release.The Referrals tab contains the following columns:
+
+Referral Category
+Title, First, and Last Name
+PCP Checkbox
+Referral Date
+Charges and Payments
+Specialty
+Status
+Referrer Type
+Notes
+Review Date
+Reason
+Appointment Date
+
+Referral CategoryIn the Referral Category column, select the category by which this referral is made. Set this as a default in the Patient Ability Preference > General tab if your office deals primarily with one type of referral.Transition From: This is a referral made from another practice to your own.Transition To: This is a referral made from your practice to another provider.Marketing: This is a referral made from a marketing campaign. It is important to note that Marketing referrals are not actively tracked in reports at this time.Not Applicable: None of these referral categories apply to this referral.Title, First, and Last Name These columns will feature the referrer's name as well as their title (if added). This information will pull from the name entered in the Referrer Reference.If the Referrer is also added to the Charge Window or Incident, this name will pull into Box 17 on the CMS Claim Form. This information does not pull onto the ADA, CDA, or UB Claim Forms unless customized to do so.PCP CheckboxIn the PCP column, select the checkbox if the referral was made from or to the patient's Primary Care Provider. At this time this option does not pull into any reports.Referral DateEnter the date the Patient was referred to or from another office. The Transitioned Patients To and Transitioned Patients From reports will use this date. Charges and PaymentsThe Charges column will reflect the dollar amount of the charges the Referral is tied to, and the Payment column will show the payment amount applied to those charges.SpecialtyIf a Specialty is selected in the Referrer Reference, it will appear in this column as well. This field may help offices define the type of specialty service the referral preforms. To add new specialties, go to the Referral Specialty Reference and click the green plus. StatusThis drop down menu can be used to indicate whether the patient is still actively seeing the referral listed. This field is not editable, and a user can choose between "Active" and "Inactive".Referrer TypeThis field defines what type of referral this is.For example, did the patient hear about the practice via a Facebook Ad? If so, this would be considered a "Marketing" Referral Type. If they hard of the office from another doctor, add "Doctor" as the Referral Type.Similar to the Specialty field, the Referral Type will need to be selected in the Referrer Reference. Once added, it will appear in the Referrer Type column. To create a new type for a referral, go to the Referrer Type Reference.All of the Referral Reports can be filtered by the Referrer Type as well. This makes it easier for the office to run reports based on specific type.NotesIn the Notes field, enter any free-text notes regarding the referral.Review DateThis date field can be used to enter the date the referral status or the referral progress with your patient has been reviewed.ReasonThe Reason field can be used to record the reason the patient was referred.If a particular reason is not available, single click in the Reason column for that referral, and the text field should become active to type in. Otherwise go to the Referral Reasons Reference to create a new record.Appointment DateUse this column to enter the date of the first appointment the patient has with the referred doctor. This date does not connect with the Schedule Ability in any way, and can be edited at any time. Keep in mind if the date is edited or removed, there will not be a way to retrieve it.
+
+Referral Category
+Title, First, and Last Name
+PCP Checkbox
+Referral Date
+Charges and Payments
+Specialty
+Status
+Referrer Type
+Notes
+Review Date
+Reason
+Appointment Date
+
+Custom Sub-TabUse the Custom tab to associate the patient to items from your Custom reference list. This area is completely user-definable. Some offices use this area to list a patient's preferred pharmacy, or indicate medical study participation. You can run reports on your Custom entries using the MacPractice Inspector Pane or the Patients marketing report.Click the green plus above the custom table to open up the search window where you may either search for or select a custom record from the list. If the record is not present, use the plus button to create a new one (you can also create custom entries through References). Alerts Sub TabUse this space to enter alerts that pertain to a patient, rather than all patients on an account. Some common alerts include warnings about a patient's serious medical condition, language barrier, phobia, or other situations that would affect patient care. Click the plus button above the Alert table to open the search window. Search or scroll through to select the alert. If the record is not present, use the plus button to create a new one. New alerts may be created through the Patient Alert node within the References ability. MacPractice does not recommend adding actual patient names to the alerts, such as "Sally is always late," as this reference is available on all patients throughout the database. Use an alert such as "Habitually late to appointments" instead.Once a patient has been assigned an alert, a yellow triangle will display in the patient selector. Click this triangle to view the alert pop-up (provided you have appropriate privileges to view alerts). If you don't want the alter pop-up to appear automatically, it can be disabled by going to Preferences > General > General tab > Uncheck "Show Patient and Account Alerts". The bottom of the Alerts tab can be used to add information if the patient is deceased. Enter a diagnosis for the cause and edit the date of death. When these fields are used, the patient's age will be listed in red. Appointments Sub-TabThe Appointments Tab contains appointment data for the patient. This tab will only appear if the Scheduling Ability is purchased on your license.Appointment information cannot be edited in this window. If you wish to make changes, simply double click on an appointment. This will open the appointment in the Schedule Ability, where you can then make adjustments as needed.Appointments are color coded as such:Black Text: Scheduled AppointmentsRed Text : Missed AppointmentsBlue Text : Cancelled AppointmentsPurple Text : Appointments set to "To Reschedule".Grey Text : Rescheduled cancelled appointmentsThis color coding in the Appointments Sub-Tab cannot be changed.Below the table, the Total number of appointments is tallied, as well as the number of Missed, Cancelled and To Reschedule appointments.The Columns in the Appointments Sub Tab are:
+
+Appointment Menu and Date Range
+Print menu
+Appointment Date, Day, Min.
+Resource
+Status and Type
+Rescheduled To
+Notes
+Created and Created By
+Last Updated and Updated By
+Provider
+
+Appointment Menu and Date RangeThe Appointments pop-up menu allows you to filter a specific time period, such as Future, This Month, Last Month, Last 6 Months, This Year and Last Year. You can also use this menu to filter Deleted Appointments. If you want to see more specific results, you can use the Start and End dates to manually set a date range.Print menuYou can use the Print menu to print a list of appointments. Print All will print all appointments for the patient (excluding deleted appointments). Print Selected will only print the appointments currently selected. By holding down the Option key on your keyboard when making your selection from the Print menu, you can include additional information in the printout.Appointment Date, Day, Min.These three fields will feature the date of the appointment, the day of the week and the length of the appointment in minutes. This will all pull from the appointment in the Schedule Ability.ResourceThe Resources column will show the name of the column the appointment was scheduled in on the Schedule Ability.Status and TypeThese columns will display the appointment's current status and the type of appointment that was scheduled based on the selection made in the appointment window. Rescheduled ToIf you reschedule an appointment, the original record will be updated to indicate the new appointment date within this column.If you reschedule a Missed or Cancelled appointment, the original Missed or Cancelled record is retained, to assist in tracking cancellation history.NotesThe Notes column will pull from the text entered in the Notes field within the appointment window.Created and Created ByThese two columns will display the date the appointment was added to the Schedule Ability and the User that created the appointment.Last Updated and Updated ByThe Last Updated column will show the date of the last time the appointment was updated on the schedule, this may include adjustments made in the Appointment Details or if it was moved from one Resource/Time to another. The Updated By will show the name of the last User who updated the appointment.ProviderThe username of the Provider the appointment is associated to will be listed in this column.
+
+Appointment Menu and Date Range
+Print menu
+Appointment Date, Day, Min.
+Resource
+Status and Type
+Rescheduled To
+Notes
+Created and Created By
+Last Updated and Updated By
+Provider
+
+ Notes Sub-TabThe Notes tab is a free-text area where you can enter miscellaneous notes about the patient. It does not directly correspond to the Notes ability, though there is a pull field you can use to put this information in a Note record. This may be used to keep track of conversational information for the patient, not intended to be a part of their permanent medical record.No clinical information should be added into this box as it can be deleted with no past record of what was in the box. Please check out Notes, EMR, EHR, or Clinical Notes for provider records.  Emergency Sub-TabUse the Emergency tab to enter information about the patient's emergency contacts.Click the plus sign in the upper right corner to add a new Emergency Contact record, then enter the contact's Last Name, First Name, and Phone number. You can also use the Relationship to Patient menu to indicate how they know the patient. Add new relationships by typing directly in that field, or via References > Emergency Contact Type.Check the Next of Kin box if it applies. Be sure to save your additions before leaving the patient's record.Communication Sub TabUse this tab to enter notes on patient communications, such as email, text, or voice messages. To record a communication, click the plus button on the communication table. In the resulting sheet, add the date and time of the communication then select the method and type from the respective menus. Add any notes about it and click Done.Below the Communication table, set a patient's AutoRemind profile in the menu or select how the patient prefers to receive Follow-Up or Recall reminders in the Communications Preference menu. Set up additional Communication Methods and Types in the References. For offices that use the AutoRemind Appointment notification feature, line items may periodically be added to the section without user intervention. These line items are miscellaneous data regarding communication with AutoRemind but are not a reliable source of information to confirm if a patient received an appointment reminder. Please check the AutoRemind Portal for this information. Race/Ethnicity Sub-TabFrom the Race/Ethnicity tab, you can add and remove demographic information for the patient in question. The options available are pre-set in the References Ability under Races, and those options cannot be added to or changed, as this is a requirement in order to meet requirements as a Certified (2014 CHERT) software.To add Race information to the patient, click on the Green Plus in the upper right of the Race/Ethnicity tab. You will be presented with a selection window as shown in the screenshot below. Select the desired Race and click "Select".To select Ethnicity information, click on the 'Ethnicity:' drop down menu above the Race table, and select the desired Ethnicity.If the patient declined to specify their Race, you can check the "Declined to Specify" checkbox.Portal Access Sub TabThe Patient Portal allows patients to access visit summaries, submit appointment requests, fill out online registration forms, and have secure communications with the office.Use this tab to designate which PHI Portal users are granted access to a patient's account. Click the plus button, then search for and select a PHI Portal user in the resulting sheet. Add another user on the fly by pressing the plus on the top right and entering in the contact information. Users may also be created in the References or edited when in the portal itself. Only the data available for the patient will display within Patient Portal.For example, the patient image on Patient Portal will be blank if there is no patient image set for the patient in MacPractice. Similarly, if the Patient does not have any upcoming appointments scheduled, no appointments will display.Reset Portal PasswordResetting a password is easy. Simply select the user and click on Reset Password. You may choose to enter a password for the person or have MacPractice generate and print one automatically. Users are allowed to update their login information within the portal.Print Portal Instructions Print instructions using this button or while resetting a user's password. This form is standardized and defaulted in the system. Contact the MacPractice forms specialist if you would like to discuss options to customize this.Patient Consent Sub Tab(Build 15 and up)The Patient Consent Sub Tab contains a selector to document whether the patient has indicated that their account’s clinical information can be safely shared with other clinicians or whether they have indicated that their data should be protected. You can choose between “Unknown”, “Sharing OK”, or “Do Not Share Data”. School Sub Tab*Canadian Claim Fields Checked: CDA Tab*This tab appears as School if Dental eClaims are used. It will have the title CDA if the Localization settings are enabled for Canadian claim fields. If neither condition applies, this tab will be hidden.Enter the name and address of the school, and use the Patient Exception field to indicate the patient's student status. If you have Canadian Claim Fields enabled, indicate whether the school's language is English or French.
+
+
+
+
+
+
+{"serverDuration": 17, "requestCorrelationId": "e19540ecb6d349fd8c225be384cc1395"}
+
+
