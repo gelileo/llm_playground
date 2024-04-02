@@ -1,4 +1,5 @@
-langchain[llms]
+# langchain[llms]
+langchain-core
 openai
 python-dotenv
 langchain-openai
