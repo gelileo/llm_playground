@@ -110,10 +110,12 @@ def answer_question(
 # question="What is Database Utility in MacPractice?"
 # question="List a few Database Utilities in MacPractice?"
 # question="How to move a patient to another account in MacPractice?"
+# question="How to move a patient to another account in MacPractice? Show me step by step."
+# question="How to become a volunteer for DTSD, show me step by step.",
 print(
     answer_question(
         df,
-        question="How to move a patient to another account in MacPractice? Show me step by step.",
-        debug=True,
+        question="How to obtain background clearances for the district? Show me step by step.",
+        debug=False,
     )
 )

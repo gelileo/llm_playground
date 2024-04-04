@@ -14,7 +14,7 @@ def remove_newlines(serie):
     return serie
 
 
-domain = "macpractice.atlassian.net"
+domain = "www.hershey.k12.pa.us"
 
 # Create a list to store the text files
 texts = []
